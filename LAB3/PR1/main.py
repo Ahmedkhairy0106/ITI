@@ -1,3 +1,8 @@
+"""
+# 26/8/2024 form 8 to 11 pm
+# ITI
+"""
+
 from oop import *
 
 shopping_card = ShopCard()

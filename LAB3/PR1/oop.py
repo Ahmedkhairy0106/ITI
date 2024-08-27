@@ -1,3 +1,7 @@
+"""
+# 26/8/2024 form 8 to 11 pm
+# ITI
+"""
 class Product:
     def __init__(self, pname, price):
         self.pname = pname
